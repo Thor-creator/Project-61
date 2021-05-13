@@ -1,0 +1,125 @@
+body{
+text-align: center;
+    background-color:beige;
+}
+#hobbytext{
+  word-spacing: 10px;
+    font-size: 80px;
+  color: orange;
+
+font-family: 'Architects Daughter', cursive;
+}
+#subheading{
+  font-size: 45px;
+  color: blue;
+}
+#image{
+  height: 50%;
+  width: 30%; 
+}
+#like{
+font-size:30px;
+}
+
+#reason{
+    font-size: 35px;
+}
+#hobby{
+    background: rgb(39,255,0);
+background: linear-gradient(90deg, rgba(39,255,0,1) 20%, rgba(181,255,0,1) 45%, rgba(0,255,239,1) 70%, rgba(0,212,255,1) 100%);
+margin-top: 60px;
+ 
+}
+.links{
+    display: inline;
+    padding: 20px;
+    font-size: 25px;
+    font-family: monospace;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: dodgerblue
+}
+.links:hover{
+    font-size: 30px;
+}
+.menu{
+background-color: #333;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+#character{
+    background: rgb(254,108,0);
+background: linear-gradient(90deg, rgba(254,108,0,1) 20%, rgba(218,255,6,1) 62%, rgba(0,250,140,1) 100%);
+}
+#favc{
+ font-size: 80px;
+font-family: 'Anton', sans-serif;
+    word-spacing: 10px;
+    color:cadetblue
+}
+#name{
+   font-size: 55px;
+    color:firebrick;
+}
+#thor{
+    height: 50%;
+    width: 25%;
+}
+#whyilike{
+    font-size: 30px;
+}
+.video{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.video2{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+a{
+ color: dodgerblue
+}
+#aboutme{
+    font-family: 'Itim', cursive;
+    font-size: 75px;
+    color:chocolate
+}
+#about{
+    margin-top: 60px;
+    background-color:aquamarine
+}
+#hi{
+    font-size: 40px
+}
+#myimage{
+    width: 500px
+}
+#lewishamilton{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#lewishamilton:hover{
+    transform:scale(0.9);
+}
+#inspiration{
+background-color:cadetblue
+}
+#lewis{
+ font-size: 60px;
+    font-family:monospace;
+    color: mediumaquamarine
+}
+#myinspiration{
+    font-size: 75px;
+    font-family: fantasy;
+    color: aliceblue
+}
+#hamilton{
+    font-size: 40px;
+    font-family:sans-serif;
+    color: chartreuse
+}
+#contact{
+    background-color:#333
+}
